@@ -1,7 +1,7 @@
 # ImGUI.NET UI blocks
-## Using ImGUI as a more advanced gui than simple debugging menu for games
+#### Using ImGUI as a more advanced gui than simple debugging menu for games
 
-Imgui customized inputs with animations using GetWindowDrawList,getIO and IsMouseHoveringRect.
+Imgui customized inputs with animations using GetWindowDrawList,getIO and IsMouseHoveringRect and lerp.
 This project also includes easier ways to implement colors (system.drawing.colors) & linear interpolation (for animations) using extentionClass
 
 
